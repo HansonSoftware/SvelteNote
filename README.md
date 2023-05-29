@@ -2,4 +2,4 @@
 
 ### - Inspired by Google Keep: https://keep.google.com/
 
-### - Try it here: sveltenote-com.vercel.app/ 
+### - Try it here: https://sveltenote-com.vercel.app/ 
